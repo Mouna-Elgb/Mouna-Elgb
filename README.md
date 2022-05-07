@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mouna-Elgb
+- 👋 Hi, I’m El Garb Mouna
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Machine Learning projects
